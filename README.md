@@ -1,4 +1,6 @@
-I was always fascinated about 3D websites and wanted to learn more about them. Glad to have explored and learned some basics of it. Still scratching the surface :) but was an amazing experience building this.:stars::stars::stars:
+## 3D-website-threejs
+
+# I was always fascinated about 3D websites and wanted to learn more about them. Glad to have explored and learned some basics of it. Still scratching the surface :) but was an amazing experience building this.:stars::stars::stars:
 
 
 
@@ -21,5 +23,5 @@ Here are some behind the scenes while learning :grin:
 
 
 ![Screenshot (304)](https://user-images.githubusercontent.com/63927839/120904879-3bfaec80-c66c-11eb-90fa-b1fcc48da91b.png)
-# 3D-website-threejs
+
 
