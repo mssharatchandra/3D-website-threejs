@@ -5,13 +5,14 @@
 
 
 
-
+# here's the video demo 
  :movie_camera:
 https://user-images.githubusercontent.com/63927839/120904849-11109880-c66c-11eb-8903-d35a6f26eb28.mp4
 
 
 Here are some behind the scenes while learning :grin:
 
+![Screenshot (304)](https://user-images.githubusercontent.com/63927839/120904879-3bfaec80-c66c-11eb-90fa-b1fcc48da91b.png)
 ![Screenshot (305)](https://user-images.githubusercontent.com/63927839/120904885-41583700-c66c-11eb-80e9-074d053b50bd.png)
 ![Screenshot (306)](https://user-images.githubusercontent.com/63927839/120904887-41f0cd80-c66c-11eb-82d5-ef29b07cbdc8.png)
 ![Screenshot (307)](https://user-images.githubusercontent.com/63927839/120904889-41f0cd80-c66c-11eb-815d-658fd225e7ae.png)
@@ -22,6 +23,6 @@ Here are some behind the scenes while learning :grin:
 ![Screenshot (312)](https://user-images.githubusercontent.com/63927839/120904895-44532780-c66c-11eb-97af-8aba536f9fbd.png)
 
 
-![Screenshot (304)](https://user-images.githubusercontent.com/63927839/120904879-3bfaec80-c66c-11eb-90fa-b1fcc48da91b.png)
+
 
 
